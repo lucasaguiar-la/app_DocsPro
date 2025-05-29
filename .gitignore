@@ -1,0 +1,40 @@
+# Cache
+*.py
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Arquivos de configuração
+.env
+*.json
+*.ini
+*.cfg
+
+# Diretórios de desenvolvimento
+__bkp__
+api/
+files/
+gui/
+images/
+logs/
+robot/
+test/
+token_data/
+utils/
+workflow/
+venv/
+build/
+dist/
+config.py
+main.py
+requirements.txt
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Outros
+!docs/
+!README.md
+!LICENSE
