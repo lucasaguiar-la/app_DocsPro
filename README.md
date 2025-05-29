@@ -94,3 +94,6 @@ Este README e a estrutura de diretórios estão disponíveis sob a licença [CC 
 - Lucas Aguiar - Desenvolvimento e Manutenção
 
 ---
+
+## Link do projeto no LinkedIn
+[LinkedIn](https://www.linkedin.com/in/lucas-aguiar23/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAEIo8xABELqUxjHzjlItN9fPqHt8TRRpx8o)
