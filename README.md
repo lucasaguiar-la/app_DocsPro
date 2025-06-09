@@ -1,7 +1,7 @@
 # DocsPro - Automação de Processamento de Documentos
 
 ## Descrição
-O DocsPro é uma aplicação desktop desenvolvida em Python para automatizar o processamento, conversão e integração de documentos entre o Zoho e o sistema SIGADM. A aplicação oferece uma interface gráfica amigável para gerenciar todo o fluxo de trabalho de documentos.
+O DocsPro é uma aplicação desktop desenvolvida em Python (Com Flask) para automatizar o processamento, conversão e integração de documentos entre o Zoho e o sistema SIGADM. A aplicação oferece uma interface gráfica amigável para gerenciar todo o fluxo de trabalho de documentos.
 
 ## Preview
 <img src="docs/Preview DocsPro.gif" alt="Preview do DocsPro" width="700"/>
@@ -38,6 +38,7 @@ Para visualização mais detalhada acesse a pasta `docs/`
 
 ### Dependências Principais
 - Python 3.8+
+- Flask
 - pymongo
 - customtkinter
 - aiohttp
