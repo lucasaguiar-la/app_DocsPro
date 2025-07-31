@@ -86,10 +86,10 @@ Este repositório contém apenas a documentação e a estrutura básica do proje
 Copyright © 2024 Guillaumon. Todos os direitos reservados.
 
 Este README e a estrutura de diretórios estão disponíveis sob a licença [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/):
-- ✅ Você pode compartilhar e visualizar a documentação
-- ❌ Não é permitido uso comercial
-- ❌ Não é permitido modificar ou criar trabalhos derivados
-- ℹ️ Deve dar crédito apropriado à Guillaumon
+- Você pode compartilhar e visualizar a documentação
+- Não é permitido uso comercial
+- Não é permitido modificar ou criar trabalhos derivados
+- Deve dar crédito apropriado à Guillaumon
 
 ## Autores
 - Lucas Aguiar - Desenvolvimento e Manutenção
